@@ -41,7 +41,7 @@ console.log("O produto dos valores é:", produto);
 ```
 Qual das seguintes alternativas melhor descreve o que o código faz?
 
-A) O código avalia a expressão booleana, imprime `true`, calcula o produto dos números na lista e imprime o resultado no console.
+✅ **<ins>A) O código avalia a expressão booleana, imprime `true`, calcula o produto dos números na lista e imprime o resultado no console.</ins>**
 
 B) O código avalia a expressão booleana, imprime `false`, calcula o produto dos números na lista e imprime o resultado no console.
 
@@ -103,7 +103,7 @@ function analisarCredito2() {
 ```
 Se ambas as funções forem executadas com os valores fornecidos, qual será a saída exibida no console?
 
-A) Ambas as funções exibirão: 'Seu crédito foi aprovado. Saldo disponível: 400.'
+✅ **<ins>A) Ambas as funções exibirão: 'Seu crédito foi aprovado. Saldo disponível: 400.'</ins>**
 
 B) analisarCredito1() exibirá: 'Seu crédito foi negado. Saldo disponível: -600.', enquanto analisarCredito2() exibirá: 'Seu crédito foi negado. Saldo disponível: -200.'
 
@@ -129,7 +129,7 @@ Qual das seguintes alternativas melhor descreve o comportamento do código?
 
 A) O código verifica se a idade indica um adulto ou um idoso e exibe a mensagem correspondente.
 
-B) O código verifica se a idade pertence à faixa adulta. Se for, exibe "Você é um adulto!". Caso contrário, verifica se é menor de idade e exibe "Você é menor de idade!". Se nenhuma das condições anteriores for verdadeira, exibe "Você está na melhor idade!".
+✅ **<ins>B) O código verifica se a idade pertence à faixa adulta. Se for, exibe "Você é um adulto!". Caso contrário, verifica se é menor de idade e exibe "Você é menor de idade!". Se nenhuma das condições anteriores for verdadeira, exibe "Você está na melhor idade!".</ins>**
 
 C) O código verifica se a idade está entre 18 e 60 anos e, se for, imprime "Você é um adulto!". Se não estiver nesse intervalo, imprime "Você está na melhor idade!".
 
@@ -161,6 +161,7 @@ for (var i = 0; i < consumoDispositivos.length; i++) {
 
 Escolha a opção que responde corretamente:
 
+
 A)
 Dispositivo 1 ligado. Energia restante: 900
 
@@ -171,6 +172,7 @@ Dispositivo 3 ligado. Energia restante: 200
 Dispositivo 4 ligado com bateria extra. Energia restante: 0
 
 Dispositivo 5 ligado. Energia restante: -200
+
 
 B)
 Dispositivo 1 ligado. Energia restante: 900
@@ -183,6 +185,7 @@ Dispositivo 4 não pode ser ligado. Energia insuficiente.
 
 Dispositivo 5 não pode ser ligado. Energia insuficiente.
 
+
 C)
 Dispositivo 1 ligado. Energia restante: 900
 
@@ -192,16 +195,17 @@ Dispositivo 3 ligado. Energia restante: 400
 
 Dispositivo 4 não pode ser ligado. Energia insuficiente.
 
-D)
-Dispositivo 1 ligado. Energia restante: 900
 
-Dispositivo 2 ligado. Energia restante: 300
+✅ **<ins>D)
+Dispositivo 1 ligado. Energia restante: 900</ins>**
 
-Dispositivo 3 ligado com bateria extra. Energia restante: 200
+**<ins>Dispositivo 2 ligado. Energia restante: 300</ins>**
 
-Dispositivo 4 não pode ser ligado. Energia insuficiente.
+**<ins>Dispositivo 3 ligado com bateria extra. Energia restante: 200</ins>**
 
-Dispositivo 5 não pode ser ligado. Energia insuficiente.
+**<ins>Dispositivo 4 não pode ser ligado. Energia insuficiente.</ins>**
+
+**<ins>Dispositivo 5 não pode ser ligado. Energia insuficiente.</ins>**
 
 ______
 
@@ -211,7 +215,7 @@ Escolha a opção que melhor descreve seu propósito:
 
 A) O método update() é responsável por carregar os assets do jogo antes da cena ser exibida.
 
-B) O método update() é chamado continuamente a cada quadro (frame) do jogo, sendo usado para atualizar a lógica, movimentação e interações dos objetos na cena.
+✅ **<ins>B) O método update() é chamado continuamente a cada quadro (frame) do jogo, sendo usado para atualizar a lógica, movimentação e interações dos objetos na cena.</ins>**
 
 C) O método update() renderiza todos os sprites na tela e garante que a física do jogo seja processada corretamente.
 
@@ -222,7 +226,7 @@ ______
 
 Escolha a opção que responde corretamente:
 
-A) Simular física avançada, incluindo corpos rígidos, colisões complexas e interação entre objetos com gravidade e forças.
+✅ **<ins>A) Simular física avançada, incluindo corpos rígidos, colisões complexas e interação entre objetos com gravidade e forças.</ins>**
 
 B) Gerenciar eventos de entrada do usuário, como cliques e toques na tela, permitindo movimentação de personagens.
 
